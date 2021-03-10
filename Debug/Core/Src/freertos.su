@@ -1,0 +1,7 @@
+freertos.c:166:6:StartDefaultTask	8	static
+freertos.c:210:6:StartTaskGUI	8	static
+freertos.c:187:6:StartTaskMain	8	static
+freertos.c:93:13:configureTimerForRunTimeStats	0	static
+freertos.c:98:22:getRunTimeCounterValue	0	static
+freertos.c:105:6:vApplicationStackOverflowHook	0	static
+freertos.c:118:6:MX_FREERTOS_Init	8	static

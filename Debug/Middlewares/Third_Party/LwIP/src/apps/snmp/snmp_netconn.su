@@ -1,0 +1,4 @@
+snmp_netconn.c:49:1:snmp_netconn_thread	16	static
+snmp_netconn.c:82:1:snmp_sendto	24	static
+snmp_netconn.c:95:1:snmp_get_local_ip_for_dst	8	static
+snmp_netconn.c:117:1:snmp_init	16	static
